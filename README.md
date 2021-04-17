@@ -14,7 +14,7 @@ Open the file containing UFO_1.
 
 Close the file.
 
-As shown in the image above, visitors of the webpage will be able to see the duration time of how long the UFO appeared in sight. There is a comments section providing comments from viewers who were in attendace of the UFO sighting. Also, there is text automatically shown in the boxes. For instance, "1/10/2010" is automatically in 'Enter Date' filter search box, and "benton" is automatically in 'Enter City' filter search box.
+As shown in the image above, visitors of the webpage will be able to see the duration time of how long the UFO appeared in sight. There is a comments section providing comments from viewers who were in attendace of the UFO sighting. Also, there is text automatically shown in the filter search boxes. For instance, "1/10/2010" is automatically in 'Enter Date' filter search box, and "benton" is automatically in 'Enter City' filter search box.
 
 To find information about the UFO sightings in the search critera, the visitor of the webpage will enter a date, a city, state, country, or shape that is included in the filter table. For instance type in "1/7/2010" in the 'Enter Date' filter search line, and all UFO sighting information for the date of 1/7/2010 will appear.
 
