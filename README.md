@@ -14,13 +14,11 @@ Open the file containing UFO_1.
 
 Close the file.
 
-		-- IMG of Entire Table
-
 To find information about the UFO sightings in the search critera, the visitor will enter a date, a city, state, country, or shape that is included in the filter table. For instance type in  "1/7/2010" in the 'Enter Date' filter search line, and all UFO sighting information for the date of 1/7/2010 will appear.
 
-Open the file containing June Temps.
+Open the file containing UFO_date.
 
-![June_Temps](/surfs_up/June_Temps.png)
+![UFO_1](/UFOs/static/images/UFO_date.png)
 
 Close the file.
 		--IMG of Date --
@@ -29,45 +27,45 @@ As shown in the image above, visitors of the webpage will be able to see the dur
 
 To find information about a city with UFO sightings, type in "san diego" in the 'Enter City' filter search line, and all UFO sighting information for the city San Diego will appear.
 
-Open the file containing June Temps.
+Open the file containing UFO_city.
 
-![June_Temps](/surfs_up/June_Temps.png)
+![UFO_1](/UFOs/static/images/UFO_city.png)
 
 Close the file.
 		--IMG of City
 
 To find information about a state with UFO sightings, type in "ny" in the 'Enter State' filter search line, and all UFO sighting information for the state of New York will appear.
 
-Open the file containing June Temps.
+Open the file containing UFO_state.
 
-![June_Temps](/surfs_up/June_Temps.png)
+![UFO_1](/UFOs/static/images/UFO_state.png)
 
 Close the file.
 		--IMG of State
 
 To find information about a country with UFO sightings, type in "us" in the 'Enter Country' filter search line, and all UFO sighting information for the United States of America will appear.
 
-Open the file containing June Temps.
+Open the file containing UFO_country.
 
-![June_Temps](/surfs_up/June_Temps.png)
+![UFO_1](/UFOs/static/images/UFO_country.png)
 
 Close the file.
 		-- IMG of Country
 
 To find information about a shape of the  UFO during the UFO sightings, type in  "light" in the 'Enter Shape' filter search line, and all UFO sighting information for the shape will appear.
 
-Open the file containing June Temps.
+Open the file containing UFO_shape.
 
-![June_Temps](/surfs_up/June_Temps.png)
+![UFO_1](/UFOs/static/images/UFO_shape.png)
 
 Close the file.
 		-- IMG of Shape 
 
 To find information about a specific location with UFO sightings, type in  the informaton in the filter search line, and all UFO sighting information for the location will appear. In addition, the location may have more than one row in the filter table. 
 
-Open the file containing June Temps.
+Open the file containing UFO_all.
 
-![June_Temps](/surfs_up/June_Temps.png)
+![UFO_1](/UFOs/static/images/UFO_all.png)
 
 Close the file.
 		-- IMG of All
