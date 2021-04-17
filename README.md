@@ -67,7 +67,7 @@ Close the file.
 DRAWBACK
 
 One drawback of this webpage is that the filter table does not provide information for the time of day (i.e. morning, afternoon, night). If there was information for "Time
-of Day", then viewers of this webpage would recognize that UFO's are expected to appear mostly in the morning, afternoon, or night. 
+of Day", then viewers of this webpage would be able to conclude that UFO's are expected to appear mostly in the morning, afternoon, or night. 
 
 RECOMMENTATIONS
 
