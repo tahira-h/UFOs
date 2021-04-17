@@ -8,9 +8,9 @@ RESULTS
 
 A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
 
-Open the file containing June Temps.
+Open the file containing UFO_1.
 
-![UFO_1](/UFOs/UFOs/static/images/UFO_1.png)
+![UFO_1](/UFOs/static/images/UFO_1.png)
 
 Close the file.
 
