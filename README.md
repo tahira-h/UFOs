@@ -21,7 +21,6 @@ Open the file containing UFO_date.
 ![UFO_1](/UFOs/static/images/UFO_date.png)
 
 Close the file.
-		--IMG of Date --
 
 As shown in the image above, visitors of the webpage will be able to see the duration time of how long the UFO appeared in sight. There is a comments section providing comments from viewers in attendace of the UFO sighting. Also, there is text automatically shown in the boxes. For instance, "1/10/2010" is automatically in 'Enter Date' filter search box, and "benton" is automatically in 'Enter City' filter search box.
 
@@ -32,7 +31,6 @@ Open the file containing UFO_city.
 ![UFO_1](/UFOs/static/images/UFO_city.png)
 
 Close the file.
-		--IMG of City
 
 To find information about a state with UFO sightings, type in "ny" in the 'Enter State' filter search line, and all UFO sighting information for the state of New York will appear.
 
@@ -41,7 +39,6 @@ Open the file containing UFO_state.
 ![UFO_1](/UFOs/static/images/UFO_state.png)
 
 Close the file.
-		--IMG of State
 
 To find information about a country with UFO sightings, type in "us" in the 'Enter Country' filter search line, and all UFO sighting information for the United States of America will appear.
 
@@ -50,7 +47,6 @@ Open the file containing UFO_country.
 ![UFO_1](/UFOs/static/images/UFO_country.png)
 
 Close the file.
-		-- IMG of Country
 
 To find information about a shape of the  UFO during the UFO sightings, type in  "light" in the 'Enter Shape' filter search line, and all UFO sighting information for the shape will appear.
 
@@ -59,7 +55,6 @@ Open the file containing UFO_shape.
 ![UFO_1](/UFOs/static/images/UFO_shape.png)
 
 Close the file.
-		-- IMG of Shape 
 
 To find information about a specific location with UFO sightings, type in  the informaton in the filter search line, and all UFO sighting information for the location will appear. In addition, the location may have more than one row in the filter table. 
 
@@ -68,7 +63,6 @@ Open the file containing UFO_all.
 ![UFO_1](/UFOs/static/images/UFO_all.png)
 
 Close the file.
-		-- IMG of All
 
 DRAWBACK
 
